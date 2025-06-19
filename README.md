@@ -1,2 +1,3 @@
 # Portfolio
-My portfolio website built using Html and Css.
+My portfolio website built purely using Html and Css.
+The website contains 3-D model.
